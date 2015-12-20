@@ -1,0 +1,23 @@
+#content{
+	padding:10px;
+}
+
+.logo img{
+	width: 80px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  
+ footer{
+	 position: fixed;
+    width: 100%;
+    bottom: 0;
+ }

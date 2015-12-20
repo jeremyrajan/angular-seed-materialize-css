@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "authors": [
+    "jeremyRajan <jeremyrajan@gmail.com>"
+  ],
+  "description": "My angular app",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "angular-route": "~1.4.8"
+  }
+}
