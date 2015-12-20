@@ -5,8 +5,9 @@ A base app for angular JS application. Since scaffolding apps took time to downl
 ## Instructions
 
 ### Install Dependencies
-* bower install
-
+```
+bower install
+```
 ### Run App
 Python server (Mac Only): 
 
