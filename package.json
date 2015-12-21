@@ -1,0 +1,25 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "angular app with materialize css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrajan/angular-seed-materialize-css.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyrajan/angular-seed-materialize-css/issues"
+  },
+  "homepage": "https://github.com/jeremyrajan/angular-seed-materialize-css#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-ruby-sass": "^2.0.6"
+  }
+}

@@ -6,18 +6,17 @@ A base app for angular JS application. Since scaffolding apps took time to downl
 
 ### Install Dependencies
 ```
+npm install
+
 bower install
 ```
 ### Run App
-Python server (Mac Only): 
-
+CD into the directory and run
 ```
-python -m SimpleHTTPServer 8000
+gulp serve
 ```
-
-For Windows, read [this](http://stackoverflow.com/questions/17351016/set-up-python-simplehttpserver-on-windows)
 
 ## @TODO
-Grunt/Gulp integration for live reload, serve and asset compilation.
+Gulp asset compilation.
 
 @Thanks to [materialize](https://github.com/Dogfalo/materialize)
