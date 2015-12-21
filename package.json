@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jeremyrajan/angular-seed-materialize-css.git"
   },
-  "author": "",
+  "author": "jeremyrajan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeremyrajan/angular-seed-materialize-css/issues"
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/jeremyrajan/angular-seed-materialize-css#readme",
   "devDependencies": {
     "browser-sync": "^2.10.1",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.0"
   }
 }
