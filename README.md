@@ -16,7 +16,24 @@ CD into the directory and run
 gulp serve
 ```
 
+### Build App (dist folder)
+```
+gulp build
+```
+
+### Misc
+ Deploy to gh-pages (github)
+  * ```gulp deploy``` 
+ 
+
+### Versions
+
+1. 1.0
+ * Added support for asset compilation
+ * Gulp integration
+ * gh-pages integration
+
 ## @TODO
-Gulp asset compilation.
+Fix script errors, with fixmyJS
 
 @Thanks to [materialize](https://github.com/Dogfalo/materialize)

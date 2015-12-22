@@ -2,8 +2,10 @@
 <html ng-app="angular">
 <head>
 	<title>My Angular App</title>
+	  <!-- build:css css/app.min.css -->
 	<link rel="stylesheet" type="text/css" href="css/vendor/materialize.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	 <!-- endbuild -->
 </head>
 
 <body>
@@ -40,19 +42,21 @@
 				</div>
 			</div>
 			<div class="footer-copyright">
-				<div class="container">&copy; 2014 Copyright Text
+				<div class="container">&copy; 2015 Copyright Text
 					<a class="grey-text text-lighten-4 right" href="#!">More Links</a>
 				</div>
 			</div>
 		</footer>
 	</div>
-	<!--include libs -->
+	 <!-- build:js js/vendor.min.js -->
 	<script src="bower_components/angular/angular.min.js"></script>
-	<script src="/bower_components/angular-route/angular-route.js"></script>
-
-	<!--app files-->
+	<script src="bower_components/angular-route/angular-route.js"></script>
+	<!-- endbuild -->
+	
+	<!-- build:js js/app.min.js -->
 	<script src="js/app.js"></script>
 	<script src="js/controllers/home.js"></script>
+	<!-- endbuild -->
 </body>
 
 </html>
