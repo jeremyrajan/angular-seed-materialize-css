@@ -28,7 +28,7 @@ gulp build
 
 ### Versions
 
-1. 1.0
+* 1.1.0
  * Added support for asset compilation
  * Gulp integration
  * gh-pages integration
