@@ -49,7 +49,7 @@ gulp.task('clean', function () {
 gulp.task('useref', function () {
     return gulp.src('app/*.html')
         .pipe(useref())
-		.pipe(gulpif('*.js', uglify()))
+	.pipe(gulpif('*.js', uglify()))
         .pipe(gulpif('*.css', minifyCSS()))
         .pipe(gulp.dest(bases.dist));
 });
