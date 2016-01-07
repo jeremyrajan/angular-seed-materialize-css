@@ -4,6 +4,8 @@ A base app for angular JS application. Since scaffolding apps took time to downl
 
 ## Instructions
 
+Clone the repo to your local folder. Cd into your directory and run the following:
+
 ### Install Dependencies
 ```
 npm install
