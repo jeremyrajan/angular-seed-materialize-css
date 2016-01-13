@@ -11,6 +11,8 @@ Clone the repo to your local folder. Cd into your directory and run the followin
 npm install
 
 bower install
+
+npm install -g gulp
 ```
 ### Run App
 
