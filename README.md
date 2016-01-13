@@ -13,7 +13,7 @@ npm install
 bower install
 ```
 ### Run App
-CD into the directory and run
+
 ```
 gulp serve
 ```
