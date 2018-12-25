@@ -1,5 +1,7 @@
 # Angular Seed App with Materialize CSS (without JS components)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeremyrajan/angular-seed-materialize-css.svg)](https://greenkeeper.io/)
+
 A base app for angular JS application. Since scaffolding apps took time to download and install.
 
 ## Instructions
